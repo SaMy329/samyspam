@@ -22,26 +22,26 @@ const client20 = new Discord.Client();
 
 /////// Tokens Here ~
 
-client.login(""); 
-client2.login(""); 
-client3.login(""); 
-client4.login(""); 
-client5.login(""); 
-client6.login(""); 
-client7.login(""); 
-client8.login(""); 
-client9.login(""); 
-client10.login(""); 
-client11.login(""); 
-client12.login(""); 
-client13.login(""); 
-client14.login(""); 
-client15.login(""); 
-client16.login(""); 
-client17.login(""); 
-client18.login(""); 
-client19.login(""); 
-client20.login(""); 
+client.login("NzY0NDY1NzYyMzIwNTE1MDcy.X4GqvQ.2h2YmanA_cf1fT1tw1luvfAjgVM"); 
+client2.login("NzY0NjQxMzQ4MjY3NDA5NDA4.X4JOXQ.iRjty7EBZJHcX4Aa87TKwMkx7yQ"); 
+client3.login("NzY0NjQ0MTQxMTc4ODE0NDY1.X4JQ_w.cd2-hXRQKF_U0oUB5CY7IPyvin8"); 
+client4.login("NzY1MzM3MzkwODI2NTIwNjI2.X4TWSw.ZBcDawfcIVWqKuQWkYhUMLHJfXY"); 
+client5.login("NzY1MzM3OTc5MTU2NjkzMDIy.X4TXDA.JfVoCEQQCJbDRwIRdN5w5pw0q54"); 
+client6.login("NzY1MzM5MjMyNzM4NzM4MTk2.X4TYcg.WC1BpwQ6kmHTveS2R88UfoVXp8o"); 
+client7.login("NzY1MzQwODEwNzkwMzA1ODMy.X4TZcA.RdkpMZBn73cgGa55_vAf0hdEOO0"); 
+client8.login("NzY1MzQxNjQzNjc0MjIyNjAz.X4Ta-g.DglI37jP8BbX5UBVe2cjv6k-kuA"); 
+client9.login("NzY1MzQyOTc5MzU0Mzk0Njg0.X4Tb7A.l4mBoh5F3-zR71UJmaj6Wacnu6w"); 
+client10.login("NzY1MzQ0MzE5Mjk1OTc5NTUw.X4TcvA.HN_lcIdH3mPMnBY0Fs-3vEM1BvA"); 
+client11.login("NzY1MzQ0Nzk5NDM1MzkxMDE2.X4TdUA.o9iM9wKP2DJ_pYAKu3U3JHJJfxs"); 
+client12.login("NzY1MzQ1NjczNzMzNDcyMjg2.X4TeKw.NiG9nZff0rNhqiYDj2VwAR8fDWI"); 
+client13.login("NzY1MzQ2OTMyMDM3NTE3MzMy.X4Tfag.Agf1H_e6chG2tCO0aISAbgiV728"); 
+client14.login("NzY1MzQ1NjY5NTk0MzQ5NTg5.X4TeQg.a7V-Dy1VsYtrzgWLnmMocLV_q5A"); 
+client15.login("NzY1MzYzNjcwOTU5MjU5Njc4.X4TvAg.-f3BtOasSmLzHOPZeFUbqzT21c8"); 
+client16.login("NzY1MzY1MjE3ODE0NjQyNzA4.X4TwNA.MJWS6tYDlkRdRYTtY7DFKqCq2U0"); 
+client17.login("NzY1MzY1NzUzODI5NTIzNDY2.X4TwsA.uRswN3s6AO01l9l0QB_WEKZANmY"); 
+client18.login("NzY1MzY2MjkyNTI5MDIwOTU4.X4TxMw.aB2O5IOCIe6VE7QoMTH9DRR1BCU"); 
+client19.login("NzY1MzY2ODQ4Mzc2MDEyODIx.X4Txug.572-ZKQYX5HrRbZaAM8BOAIqrDQ"); 
+client20.login("NzY1MzY3NTExMTA1MDExNzIy.X4TySQ.qcuI9ilmaOnzjPYQNI6wKC8ViHY"); 
 
 ////////// 1
 
